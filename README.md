@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Welcome to my profile 😊
 
+- [Gist](https://gist.github.com/ShmuelMofrad)
 - [Highlights](Highlights.md)
 - [About me](AboutMe.md)
 
