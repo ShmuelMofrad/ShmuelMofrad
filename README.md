@@ -1,4 +1,19 @@
 ### Hi there 👋
+### Welcome to my profile 😊
+
+- [Highlights](Highlights.md)
+- [About me](AboutMe.md)
+
+🔭 I’m currently working on:
+    
+- [My-Lab](https://github.com/ShmuelMofrad/My-Lab)
+- [das.ist](https://das.ist/)
+- [wunsch.page](https://wunsch.page/)
+- [unus.one](https://unus.one/)
+
+#### Skills:
+- Java
+- JavaScript
 
 <!--
 **ShmuelMofrad/ShmuelMofrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
